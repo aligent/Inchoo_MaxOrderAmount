@@ -1,0 +1,4 @@
+code/community/Inchoo/MaxOrderAmount	code/community/Inchoo/MaxOrderAmount
+app/etc/modules/Inchoo_MaxOrderAmount.xml  app/etc/modules/Inchoo_MaxOrderAmount.xml
+locale/en_US/template/email/inchoo_maxorderamount_OrderMaxAmountNotification.html	locale/en_US/template/email/inchoo_maxorderamount_OrderMaxAmountNotification.html
+

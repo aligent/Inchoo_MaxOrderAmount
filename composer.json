@@ -1,0 +1,11 @@
+{
+  "name":"inchoo/maxorderamount",
+  "type":"magento-module",
+  "license":"OSL-3.0",
+  "homepage":"https://github.com/aligent/Inchoo_MaxOrderAmount",
+  "description":"Magento extension. Adds the possibility to limit the maximum order amount.",
+  "require":{
+      "magento-hackathon/magento-composer-installer":"*"
+  }
+}
+
